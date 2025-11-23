@@ -1,0 +1,4 @@
+2025-11-23 10:58:45,197 - ERROR - Market Order Error: API Secret required for private endpoints
+2025-11-23 11:01:23,319 - ERROR - Market Order Error: API Secret required for private endpoints
+2025-11-23 11:23:13,068 - ERROR - Market Order Error: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-11-23 11:25:17,434 - INFO - Market Order Success: {'orderId': 10563048288, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ73079ef8dfeb3ef9fb68fa', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.002', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1763877317385}
